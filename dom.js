@@ -10,14 +10,14 @@
  * 2. to save the reference in a variable for future use
  * 3. do the modifications
  *
- *
+ * ways to target the elements:
  * document.getElementById() => target element based on its ID
  * document.getElementsByClassName() => target element based on class
  * document.getElementsByTagName() => target element based on tags
  * document.querySelector() => return the first occurence
  * document.querySelectorAll() => returns all occurence
  *
- * events:
+ * types events:
  * onclick
  * onkeyup
  * onkeydown
